@@ -1,0 +1,16 @@
+Coach's Basic IaaS Azure Starter Kit
+
+1. Create your Resource Groups and Storage strategy
+
+2. Create your VNets: 
+	a. IP's 
+	b. Subnets
+	c. VPN gateway
+	d. Load balancer
+	e. Network Security Groups
+	f. Firewall appliances
+	g. <insert your things here>
+
+3. Create your Availability Sets and other accoutrements
+
+4. Create your VM's, drop them into your VNets/load balancers/availability sets and migrate/load/connect your code and data

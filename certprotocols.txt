@@ -1,0 +1,39 @@
+Coach's Certification Protocols
+
+1. Get a sandbox and a guide
+--Use your trial or MSDN subscription
+--Use the Github and cert guides online
+
+
+
+2. Study 2 weeks 3 hours a day or 
+         3 weeks 2 hours a day 
+-- The point is IMMERSION in the technology
+-- Include Weekends
+
+
+3. Follow the Pattern
+  a. Watch a video on an Azure topic
+     --YouTube, Channel 9, MVA, edX
+  b. Do a lookup on a topic and read through the documentation pages
+  c. Do a lab or take a round of a practice test. 
+  e. Watch a (funny) video as a reward 
+If you can: 
+    --Read one page of Azure docs right before you go to sleep
+
+
+Test day tips
+1. Eat breakfast, preferably something with protein
+    -Vegans and vegetarians, do something with tofu or spinach 
+    - Carnivores, do something with eggs
+2. Breathe. 
+	--As you sit down to take the test, take 2 or 3 good deep breaths and relax
+	--Every 10 questions, stop and take a couple of deep breaths again and chill. 
+3.  Remember, the person who graduates at the bottom of their class is still called doctor. 
+
+
+
+
+
+
+
